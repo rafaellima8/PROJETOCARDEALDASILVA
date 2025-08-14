@@ -42,3 +42,4 @@ app.log*
 __pycache__/
 *.pyc
 public/*.csv
+!public/sinapi_2025_06_sample.csv
