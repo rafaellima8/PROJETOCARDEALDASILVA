@@ -41,3 +41,4 @@ logs/
 app.log*
 __pycache__/
 *.pyc
+public/*.csv
