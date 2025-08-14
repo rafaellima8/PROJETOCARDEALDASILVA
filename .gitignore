@@ -39,3 +39,5 @@ logs/
 *.csv
 *.xlsx
 app.log*
+__pycache__/
+*.pyc
